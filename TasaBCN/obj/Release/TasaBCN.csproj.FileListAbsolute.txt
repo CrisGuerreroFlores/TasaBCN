@@ -1,0 +1,9 @@
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\bin\Release\TasaBCN.exe.config
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\bin\Release\TasaBCN.exe
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\bin\Release\TasaBCN.pdb
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Release\TasaBCN.Properties.Resources.resources
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Release\TasaBCN.Vistas.FormTasas.resources
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Release\TasaBCN.csproj.GenerateResource.cache
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Release\TasaBCN.csproj.CoreCompileInputs.cache
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Release\TasaBCN.exe
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Release\TasaBCN.pdb
