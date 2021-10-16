@@ -1,0 +1,10 @@
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\bin\Debug\TasaBCN.exe.config
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\bin\Debug\TasaBCN.exe
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\bin\Debug\TasaBCN.pdb
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Debug\TasaBCN.csproj.AssemblyReference.cache
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Debug\TasaBCN.Properties.Resources.resources
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Debug\TasaBCN.Vistas.FormTasas.resources
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Debug\TasaBCN.csproj.GenerateResource.cache
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Debug\TasaBCN.csproj.CoreCompileInputs.cache
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Debug\TasaBCN.exe
+J:\PROYECTOS DESKTOP RICSA\TasaBCN\TasaBCN\obj\Debug\TasaBCN.pdb
